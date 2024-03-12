@@ -1,0 +1,26 @@
+:root{
+    --all-main-color: #d7a449,
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  == SCROLL BAR == */
+::-webkit-scrollbar {
+    width: 10px; /* Largura da barra de rolagem */
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--all-main-color); /* Cor da linha da barra de rolagem */
+    border-radius: 6px; /* Borda arredondada da linha */
+}
+/* == END SCROLL BAR == */
